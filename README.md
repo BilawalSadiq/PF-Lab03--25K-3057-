@@ -11,4 +11,4 @@ I would describe myself as someone who is always thinking about the solutions to
 - Third
 
 **This text is bold**\
-*This text is italics*\
+*This text is italics*
