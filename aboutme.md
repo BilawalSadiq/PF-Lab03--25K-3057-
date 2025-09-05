@@ -1,3 +1,3 @@
-My name is Bilawal Sadiq\n
-My degree programme is Software Engineering\n
-My hobby is learning about the stock market
+My name is Bilawal Sadiq\
+My degree programme is Software Engineering\
+My hobby is to learn about the stock market
